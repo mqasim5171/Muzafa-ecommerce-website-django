@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="left">
   <a href="https://www.linkedin.com/in/rathan-kumar492" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCYesptHRU1QZ2pHZkAqdQTw/videos" target="_blank"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -76,3 +77,6 @@ _Learn how to build these [complex functionalities from the scratch](https://www
 
 ##
 Made with ❤️ and Python
+=======
+# Muzafa-ecommerce-website-django
+>>>>>>> mqasim5171/main
